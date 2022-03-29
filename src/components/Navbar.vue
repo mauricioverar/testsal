@@ -89,17 +89,17 @@ export default {
       {
         text: 'Planes',
         disabled: false,
-        to: 'planes'
+        to: ''
       },
       {
         text: 'Prepago',
         disabled: false,
-        to: 'prepago'
+        to: ''
       },
       {
         text: 'Oficina Virtual',
         disabled: false,
-        to: 'oficina'
+        to: ''
       }
     ]
   }),
